@@ -21,3 +21,4 @@ Currently, two official plugins are available:
 
 # to run the project use [npm run dev ] command then  open localhost:3000 on your browser
 
+# to check the working demo of project please check the demoImage Folder 
